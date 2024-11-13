@@ -1,5 +1,12 @@
 ## Hi there 👋
-I am Paolo Ginefra a Computer Science and engineering MSc student with a passion of Artificial Intelligence, Robotics, Computer Vision, Computer graphics, Creative Programmming and Game Development
+I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passion for:
+- 🧠 Artificial Intelligence
+- 🦾 Robotics
+- 👁️ Computer Vision
+- 🗿 Computer graphics
+- 💫 Creative Programmming
+- 🎮 Game Development
+- ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paologinefra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
