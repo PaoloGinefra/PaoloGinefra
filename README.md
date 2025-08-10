@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ![PaoloGinefra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaoloGinefra&theme=dark&hide_border=false)
 
-__These stats do not include organizations contribution__
+> _These stats do not include organizations contribution_
