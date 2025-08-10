@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 -->
 
 ![PaoloGinefra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaoloGinefra&theme=dark&hide_border=false)
+
+
 ![PaoloGinefra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGinefra&theme=dark&show_icons=true&hide_border=false&layout=compact)
