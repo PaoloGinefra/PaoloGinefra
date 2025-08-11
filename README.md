@@ -45,6 +45,10 @@ The team projects I participate in are typically managed through GitHub organiza
 </a>
 
 
+<a href="https://github.com/Software-Engineering-2-PoliMi2024/FiginiGinefraThomaj">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-2-PoliMi2024&repo=FiginiGinefraThomaj&show_owner=true&theme=prussian&description_lines_count=3"/>
+</a>
+</p>
 
 ## My stats
 <p align="center">
