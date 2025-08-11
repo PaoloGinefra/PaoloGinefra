@@ -10,7 +10,7 @@ I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passi
 - 🎮 Game Development
 - ...
 
-
+Big-time Python-head, but if it’s Turing complete, I’m quick to get the hang of it.
 
 ## My team projects
 The team projects I participate in are typically managed through GitHub organizations. Here are some of the **public** repositories from those projects:
