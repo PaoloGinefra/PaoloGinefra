@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passion for:
 - 🧠 Artificial Intelligence
+- 📖 Machine learning
 - 📈 Data science
 - 🦾 Robotics
 - 👁️ Computer Vision
