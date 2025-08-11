@@ -10,24 +10,49 @@ I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passi
 - 🎮 Game Development
 - ...
 
-<!--
-**PaoloGinefra/PaoloGinefra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![PaoloGinefra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGinefra&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
-![PaoloGinefra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaoloGinefra&theme=dark&hide_border=false)
+## My team projects
+The team projects I participate in are typically managed through GitHub organizations. Here are some of the **public** repositories from those projects:
+
+<p align="center">
+  <a href="https://github.com/Software-Engineering-Project-PoliMi2024/ing-sw-2024-Figini-Ginefra-Grisoni-Lanzafame">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-Project-PoliMi2024&repo=ing-sw-2024-Figini-Ginefra-Grisoni-Lanzafame&show_owner=true&theme=prussian&description_lines_count=3" />
+  </a>
+  
+<a href="https://github.com/HomoTopi/CV_project_24_25_HomotopyContinuation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HomoTopi&repo=CV_project_24_25_HomotopyContinuation&show_owner=true&theme=prussian"/>
+</a>
+
+
+<a href="https://github.com/NLP-Project-PoliMi-2025/NLP-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NLP-Project-PoliMi-2025&repo=NLP-Project&show_owner=true&theme=prussian&description_lines_count=3"/>
+</a>
+
+
+<a href="https://github.com/MultiagentSystemsProject-Polimi2024/LearningNashQLearning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MultiagentSystemsProject-Polimi2024&repo=LearningNashQLearning&show_owner=true&theme=prussian&description_lines_count=3"/>
+</a>
+
+
+<a href="https://github.com/PolimiDataScientists/PMDS-Twitter-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PolimiDataScientists&repo=PMDS-Twitter-Analysis&show_owner=true&theme=prussian&description_lines_count=3"/>
+</a>
+
+
+<a href="https://github.com/poliduckie/poliduckie_segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poliduckie&repo=poliduckie_segmentation&show_owner=true&theme=prussian&description_lines_count=3"/>
+</a>
+
+
+
+## My stats
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGinefra&theme=dark&show_icons=true&hide_border=false&layout=compact" style="padding=50px"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloGinefra&theme=dark&hide_border=false" style="padding=50px"/>
+</p>
 
 > _These stats do not include organizations contribution_
