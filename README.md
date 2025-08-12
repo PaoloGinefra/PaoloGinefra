@@ -13,7 +13,7 @@ I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passi
 Big-time Python-head, but if it’s Turing complete, I’m quick to get the hang of it.
 
 ## My team projects
-The team projects I participate in are typically managed through GitHub organizations. Here are some of the **public** repositories from those projects:
+The team projects I participate in are typically managed through GitHub organizations. Here are some of the **`public`** repositories from those projects:
 
 <p align="center">
   <a href="https://github.com/Software-Engineering-Project-PoliMi2024/ing-sw-2024-Figini-Ginefra-Grisoni-Lanzafame">
