@@ -52,11 +52,11 @@ The team projects I participate in are typically managed through GitHub organiza
 
 ## My stats
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGinefra&theme=dark&show_icons=true&hide_border=false&layout=compact" style="padding=50px"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGinefra&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloGinefra&theme=dark&hide_border=false" style="padding=50px"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaoloGinefra&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 > _These stats do not include organizations contribution_
