@@ -2,6 +2,7 @@
 I am Paolo Ginefra a "Computer Science and engineering" MSc student with a passion for:
 - 🧠 Artificial Intelligence
 - 📖 Machine learning
+- 🧮 Recreationl Mathematics
 - 📈 Data science
 - 🦾 Robotics
 - 👁️ Computer Vision
@@ -56,7 +57,7 @@ The team projects I participate in are typically managed through GitHub organiza
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaoloGinefra&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaoloGinefra&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 > _These stats do not include organizations contribution_
